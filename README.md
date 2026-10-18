@@ -6,9 +6,9 @@ Este projeto consiste em uma Pokédex desenvolvida utilizando HTML, CSS e JavaSc
 
 Os dados utilizados pela aplicação são fornecidos pela [PokéAPI](https://pokeapi.co/).
 
-O tutorial utilizdo para fazer este projeto foi criado por [Carpi Coder](https://www.youtube.com/@carpicoder).
+O tutorial utilizado para fazer este projeto foi criado por [Carpi Coder](https://www.youtube.com/@carpicoder).
 
-Video: https://www.youtube.com/watch?v=EmxvMPcIy5c&t=37s
+Vídeo: https://www.youtube.com/watch?v=EmxvMPcIy5c&t=37s
 
 ## 📚 Aprendizados
 
